@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Joao-DLM
+- 👀 I’m interested in Python and Data Science
+- 🌱 I’m currently learning Data Science
+- 💞️ I’m looking to collaborate on projects in data science
